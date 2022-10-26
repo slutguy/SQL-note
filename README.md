@@ -6,7 +6,7 @@ Show now database   |select database();
 Creat the databases |create database[if not exists][default charset][collate]
 delete database     |derop database[if exists]
 use database        |use #someone#  
-![](http://tiebapic.baidu.com/forum/w%3D580/sign=213de9f82e63f6241c5d390bb745eb32/5812374c510fd9f9040837a8602dd42a2934a43b.jpg?tbpicau=2022-10-27-05_1b88e4fe36330bfc5a34f90a8a31823c)
+
 * #### Table motion
 Search all table of database
 >show tables;
